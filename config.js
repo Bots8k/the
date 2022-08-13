@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
-global.owner = [
-  ['56977774748', 'creador', true],
+mundial  _  propietario   = [ +505 81427994 
+  [ '56977774748' , 'creador' , cierto ],
   ['447441419651'],
   ['240222921821'],
   ['50495745934'],
